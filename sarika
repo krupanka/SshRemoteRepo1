@@ -1,0 +1,32 @@
+warning: LF will be replaced by CRLF in index1.html.
+The file will have its original line endings in your working directory
+[1mdiff --git a/index1.html b/index1.html[m
+[1mindex 27a0b04..6eaf113 100644[m
+[1m--- a/index1.html[m
+[1m+++ b/index1.html[m
+[36m@@ -1 +1,24 @@[m
+[31m-<html> </html>[m
+[32m+[m
+[32m+[m[32m<html>[m
+[32m+[m	[32m<head>[m
+[32m+[m	[32m</head>[m
+[32m+[m	[32m<body>[m
+[32m+[m	[32m</body>[m
+[32m+[m
+[32m+[m
+[32m+[m[32m</html>[m
+[41m+[m
+[41m+[m
+[41m+[m
+[41m+[m
+[41m+[m
+[41m+[m
+[41m+[m
+[41m+[m
+[41m+[m
+[41m+[m
+[41m+[m
+[41m+[m
+[41m+[m
+[41m+[m
+[41m+[m
